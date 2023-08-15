@@ -34,9 +34,9 @@ TER | 0.824 |
 
 ## Qualitative Result
 
-Here, the NMT model's qualitative performance is attributed to the Transformer's attention maps.
+Here, the NMT model's qualitative performance is associated with the Transformer's attention maps.
 
-<p align="center"> <img src="https://github.com/reshalfahsi/neural-machine-translation/blob/master/assets/qualitative_result.png" alt="qualitative_result"> <br /> TThe attention maps from each of the Transformer's heads. Almost every corresponding word pair (English-German) at each head pays attention mutually. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/neural-machine-translation/blob/master/assets/qualitative_result.png" alt="qualitative_result"> <br /> The attention maps from each of the Transformer's heads. Almost every corresponding word pair (English-German) at each head pays attention mutually. </p>
 
 
 ## Credit
