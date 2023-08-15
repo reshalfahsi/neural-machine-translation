@@ -2,7 +2,7 @@
 
 
  <div align="center">
-    <a href="https://colab.research.google.com/github/reshalfahsi/neural-machine-translation/blob/master/EN-DE_Neural_Machine_Translation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a>
+    <a href="https://colab.research.google.com/github/reshalfahsi/neural-machine-translation/blob/master/EN_DE_Neural_Machine_Translation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a>
     <br />
  </div>
 
