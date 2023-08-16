@@ -24,8 +24,8 @@ The performance of the model in terms of cross-entropy loss and translation edit
 
 Metrics | Score |
 ------------ | ------------- |
-Loss | 2.076 |
-TER | 0.824 |
+Loss | 2.073 |
+TER | 0.821 |
 
 
 ## Loss Curve
@@ -45,4 +45,5 @@ Here, the NMT model's qualitative performance is associated with the Transformer
 - [6 - Attention is All You Need Notebook Tutorial](https://github.com/bentrevett/pytorch-seq2seq/blob/master/6%20-%20Attention%20is%20All%20You%20Need.ipynb)
 - [Multi30K Dataset](https://github.com/multi30k/dataset)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Self-Attention and Positional Encoding](https://d2l.ai/chapter_attention-mechanisms-and-transformers/self-attention-and-positional-encoding.html)
 - [PyTorch Lightning](https://lightning.ai/docs/pytorch/latest/)
