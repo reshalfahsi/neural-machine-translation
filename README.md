@@ -24,8 +24,8 @@ The performance of the model in terms of cross-entropy loss and translation edit
 
 Metrics | Score |
 ------------ | ------------- |
-Loss | 2.073 |
-TER | 0.821 |
+Loss | 1.951 |
+TER | 0.811 |
 
 
 ## Loss Curve
